@@ -1,2 +1,2 @@
 # hello-world
-initial repository
+This is where I'll keep my evil plans to conquer the world
