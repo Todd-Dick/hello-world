@@ -1,2 +1,2 @@
 # hello-world
-This is where I'll keep my evil plans to conquer the world
+These repositories contain some of the work I did as a student at UAH.
